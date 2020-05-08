@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EmployeeData</string>
+    <string name="sqllite">Kotlin SQLite</string>
+
+    <!--Add Data Activity-->
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+    <string name="age">Age :</string>
+
+    <string name="add_data">Add Employee Data</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="employee_title">Employees</string>
+    <string name="add_data_title">Add Data</string>
+
+    <!--No data found text-->
+    <string name="no_data_found">No data is inserted in db.Add your data in db while opening navigation drawer</string>
+</resources>
